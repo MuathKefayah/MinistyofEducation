@@ -1,0 +1,129 @@
+{
+  
+"cities": [
+
+    "A",
+
+    "B",
+
+    "C"
+  
+],
+   
+"villages": [
+   
+    "Av1",
+
+    "Av2",
+
+    "Bv1",
+ 
+    "Bv2",
+
+    "Bv3",
+ 
+    "Bv4",
+    "Cv1",
+
+    "Cv2",
+
+    "Cv3",
+
+    "Cv4",
+
+    "Cv5"   
+],
+
+"streets": [
+
+    "As1",
+
+    "As2",
+
+    "Bs1",
+ 
+    "Bs2",
+
+    "Bs3",
+ 
+    "Bs4",
+    "Cs1",
+
+    "Cs2",
+
+    "Cs3",
+
+    "Cs4",
+
+    "Cs5"  
+  
+],
+
+"schools":[
+
+    "scAm1",
+
+    "scAm2",
+
+    "scAm3",
+
+    "scAf1",
+
+    "scAf2",
+
+    "scBm1",
+
+    "scBm2",
+
+    "scBf1",
+
+    "scBf2",
+
+    "scBf3",
+
+    "scCf1",
+
+    "scCf2",
+
+    "scCf3",
+
+    "scCf4",
+
+    "scCf5",
+
+    "scCm1",
+
+    "scCm2",
+
+    "scCm3"
+
+],
+
+"classes":[
+	"class 1",
+	"class 2",
+	"class 3",
+	"class 4",
+	"class 5",
+	"class 6",
+	"class 7",
+	"class 8",
+	"class 9",
+	"class 10",
+	"class 11",
+	"class 12"
+
+
+],
+
+"branches":[
+	"Scientific",
+	"Literary",
+	"Industrial",
+	"Commercial",
+	"Technology"
+
+]
+
+
+}
